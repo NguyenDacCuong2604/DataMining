@@ -1,0 +1,2 @@
+# DataMining
+Exercises in Datamining
